@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"name": "STM32F411RE",
+			"path": "."
+		},
+		{
+			"name": "FLASH",
+			"path": "./Flash"
+		},
+		{
+			"name": "BLE",
+			"path": "./BLE"
+		},
+		{
+			"name": "HardWareModules",
+			"path": "./HardWareModules"
+		},
+		{
+			"name": "GNU",
+			"path": "./GNU"
+		},
+		{
+			"name": "MPU",
+			"path": "./MPU"
+		},
+		{
+			"name": "FileSystemAndSDC",
+			"path": "./FileSystemAndSDC"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f4xx.h": "c",
+			"stdint.h": "c",
+			"stddef.h": "c",
+			"gen_bluetooth_driver.h": "c",
+			"hc06_lib.h": "c",
+			"stdio.h": "c",
+			"sd_card.h": "c",
+			"diskio.h": "c",
+			"timebase.h": "c",
+			"fatfs_app.h": "c",
+			"user_diskio.h": "c"
+		}
+	}
+}
